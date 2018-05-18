@@ -6,8 +6,7 @@ class Cat
 def initialize(name)
 # binding.pry
   @name = name
-
-
+@mood = mood
 end
 
 
