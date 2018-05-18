@@ -7,7 +7,7 @@ def initialize(name)
 # binding.pry
   @name = name
   cat_mood = @mood
-  cat_mood.self 
+  cat_mood.self
 end
 
 
