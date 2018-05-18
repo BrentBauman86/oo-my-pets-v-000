@@ -7,7 +7,7 @@ class Owner
     @owner = owner
   end
 
-def self.all_owners
+def self.all
 @@all
 end
 
