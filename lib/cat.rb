@@ -8,7 +8,7 @@ def initialize(name)
   @name = name
   cat_mood = @mood
   cat_mood.self
-  cat_mood 
+  cat_mood
 end
 
 
