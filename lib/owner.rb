@@ -10,7 +10,7 @@ class Owner
   def self.reset_owners
     @owner.clear
     end
-  
+
 
 
 end
