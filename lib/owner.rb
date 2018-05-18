@@ -6,12 +6,18 @@ class Owner
 
   def initialize(owner)
     @owner = owner
-
+    @species = species
   end
 
 def self.all
 @@all
 end
+
+def species
+@species = species
+end
+
+
 
   def self.reset_owners
     @owner.clear
