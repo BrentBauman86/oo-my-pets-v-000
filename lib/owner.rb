@@ -8,7 +8,7 @@ class Owner
   end
 
   def self.reset_owners
-    @@all.clear
+    @owner.clear
     end
   end
 
